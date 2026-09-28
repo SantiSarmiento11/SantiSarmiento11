@@ -1,5 +1,4 @@
 <h1 align="center">Hello there, I’m Santiago Sarmiento <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<iframe src="https://giphy.com/embed/QUENDfi6DEMLzQ0CKt" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justin-word-oh-really-wow-QUENDfi6DEMLzQ0CKt">via GIPHY</a></p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Todo+lo+que+puedas+soñar+lo+puedes+progamar;Software+Engineering+Student+at+Campuslands;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things;Working+on+my+dreams"></a>
 </p>
