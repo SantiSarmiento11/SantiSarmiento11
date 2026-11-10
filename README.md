@@ -16,7 +16,7 @@
 
 ## <img src="https://api.iconify.design/octicon/person-24.svg?color=%230078D6" width="22" height="22" align="absmiddle" /> About Me
 
-- <img src="https://api.iconify.design/octicon/briefcase-16.svg?color=%230078D6" width="16" height="16" align="absmiddle" /> **Junior Developer** at [Campuslands](https://campuslands.com/)
+- <img src="https://api.iconify.design/octicon/briefcase-16.svg?color=%230078D6" width="16" height="16" align="absmiddle" /> **Junior Full-Stack Developer** | Backend Focused  [Campuslands](https://campuslands.com/)
 - <img src="https://api.iconify.design/octicon/cpu-16.svg?color=%230078D6" width="16" height="16" align="absmiddle" /> **Competitive Programmer** & Problem Solver
 - <img src="https://api.iconify.design/octicon/light-bulb-16.svg?color=%230078D6" width="16" height="16" align="absmiddle" /> Passionate about building scalable, efficient software solutions for real-world challenges
 - <img src="https://api.iconify.design/octicon/mortar-board-16.svg?color=%230078D6" width="16" height="16" align="absmiddle" /> Currently advancing my knowledge in **Computer Science** & **Software Engineering**
