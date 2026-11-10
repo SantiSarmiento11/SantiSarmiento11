@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -61,11 +60,26 @@
 
 ---
 
+## <img src="https://api.iconify.design/octicon/rocket-24.svg?color=%230078D6" width="22" height="22" align="absmiddle" /> En Aprendizaje / Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS_(Cloud_Deployments)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Deployments" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+---
+
 ## <img src="https://api.iconify.design/octicon/graph-24.svg?color=%230078D6" width="22" height="22" align="absmiddle" /> GitHub Stats
 
 <p align="center">
   <a href="https://github.com/SantiSarmiento11">
-    <img src="https://github-readme-stats.vercel.app/api?username=SantiSarmiento11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=SantiSarmiento11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/SantiSarmiento11">
     <img src="https://streak-stats.demolab.com/?user=SantiSarmiento11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -74,7 +88,7 @@
 
 <p align="center">
   <a href="https://github.com/SantiSarmiento11">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiSarmiento11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SantiSarmiento11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -86,3 +100,14 @@
   </a>
 </p>
 
+---
+
+## <img src="https://api.iconify.design/octicon/git-commit-24.svg?color=%230078D6" width="22" height="22" align="absmiddle" /> Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="./assets/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
